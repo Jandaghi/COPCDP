@@ -1,6 +1,6 @@
-<font size="16">
+<font size="15">
 
-  <b>The Categorized Orienteering Problem with Count Dependent Profits (COPCDP)</b><br><font size="15">
+  <b>The Categorized Orienteering Problem with Count Dependent Profits (COPCDP)</b><br><font size="14">
    Test Instances, Detailed Experimental Results (Solutions & Objective Values) <br>
   <b>Authors:</b> Hossein Jandaghi; Ali Divsalar; Saeed Emami <br>
   <b>Institution:</b> Babol Noshirvani University of Technology <br>

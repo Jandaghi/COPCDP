@@ -1,11 +1,10 @@
 <font size="16">
 
   <b>The Categorized Orienteering Problem with Count Dependent Profits (COPCDP)</b><br><font size="15">
-  <b>Include:</b> Experimental results files, Test Instances files, for COPCDP Problem. <br>
+   Test Instances, Detailed Experimental Results (Solutions & Objective Values) <br>
   <b>Authors:</b> Hossein Jandaghi; Ali Divsalar; Saeed Emami <br>
   <b>Institution:</b> Babol Noshirvani University of Technology <br>
-* All files are stored in one file, and wherever you need an explanation, the description file is available.
+* Reference: H. Jandaghi, A. Divsalar, S. Emami, The Categorized Orienteering Problem with Count Dependent Profits, Submitted to Applied Soft Computing
 
 </font>
-
 
